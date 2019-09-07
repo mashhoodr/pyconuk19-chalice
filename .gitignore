@@ -1,0 +1,3 @@
+.chalice/deployments/
+.chalice/venv/
+.mypy_cache
